@@ -1,4 +1,4 @@
-![356533796-2e4cd695-97d3-4ca7-adaf-4b1be04cf6ca](https://github.com/user-attachments/assets/835340cb-7d61-4409-8ab0-388da60b868f)## Ex.No: 1 Implementation of HotPotato game using Queue
+## Ex.No: 1 Implementation of HotPotato game using Queue
 
 ## DATE: 09-08-2024
 ## REGISTER NUMBER: 212221240017

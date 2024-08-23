@@ -53,6 +53,8 @@ if __name__ == "_main_":
 
 ## Result:
 
+Thus the simple HotPotato game was implemented using Queue.
+
 
 
 

@@ -9,9 +9,13 @@ To write a python program to simulate the process of passing an item among playe
 ## Algorithm:
 
 Initialize the Queue: Create a queue and enqueue all the participants.
+
 Pass the Potato: Dequeue the first person in the queue and enqueue them at the end. This simulates passing the potato.
+
 Count the Passes: Repeat the passing for a given number of times.
+
 Eliminate the Holder: After the set number of passes, remove the person who holds the potato (dequeue the front of the queue).
+
 Repeat: Continue the process until only one person remains in the queue.
 
 ## Program:

@@ -69,7 +69,7 @@ while running:
 
 pygame.quit()
 
-```python
+```
 
 ### Output:
 

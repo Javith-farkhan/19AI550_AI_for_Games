@@ -71,6 +71,7 @@ if __name__ == "__main__":
 
 ### Output:
 
+![ai2](https://github.com/user-attachments/assets/c1167819-743e-4e24-a2d4-d367b3ec5b78)
 
 
 ### Result:

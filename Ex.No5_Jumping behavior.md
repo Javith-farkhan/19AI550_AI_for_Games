@@ -73,6 +73,7 @@ pygame.quit()
 
 ### Output:
 
+![ai5](https://github.com/user-attachments/assets/350ad809-3823-4249-81e9-fe819cc4e672)
 
 
 

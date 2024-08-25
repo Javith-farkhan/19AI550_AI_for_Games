@@ -109,7 +109,7 @@ while True:
 ```
 ### Output:
 
-
+![ai3](https://github.com/user-attachments/assets/ab03e566-9981-45ca-bcbc-bd038c73fded)
 
 
 ### Result:

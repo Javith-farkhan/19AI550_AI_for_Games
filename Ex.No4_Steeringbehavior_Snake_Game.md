@@ -94,6 +94,7 @@ pygame.quit()
 ```
 ### Output:
 
+![ai4](https://github.com/user-attachments/assets/76cbf4b3-ff91-47d4-a14f-c935ea330625)
 
 
 ### Result:
